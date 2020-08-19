@@ -1,0 +1,6 @@
+RENCANA KONTEN FIKAR 
+
+- jAVASCRIPT
+- PHP fRAMEWORK
+- Interview
+- Vlog
