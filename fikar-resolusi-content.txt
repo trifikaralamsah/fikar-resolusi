@@ -3,6 +3,7 @@ RENCANA KONTEN FIKAR
 - jAVASCRIPT
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP fRAMEWORK
 - Interview
 - Vlog
