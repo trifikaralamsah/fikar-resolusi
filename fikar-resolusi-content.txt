@@ -1,0 +1,8 @@
+RENCANA KONTEN FIKAR 
+
+- jAVASCRIPT
+  * ES6
+  * Framework Javascript
+- PHP fRAMEWORK
+- Interview
+- Vlog
